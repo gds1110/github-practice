@@ -10,3 +10,4 @@ function Add(x,y)
 }
 
 console.log(Add(1,2));
+console.log(Add(2,3));
